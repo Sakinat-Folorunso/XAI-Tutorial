@@ -7,7 +7,10 @@ This repository contains a suite of interactive notebooks, slides, and supportin
 
 👩🏾‍💻 **Facilitator**:  
 **Dr. Sakinat Oluwabukonla Folorunso**  
-Senior Faculty, Research Area: AI Systems and FAIR Data Science
+Associate Professor of AI Systems and FAIR Data Science
+
+Artificial Intelligent Sytems Research Group
+
 Olabisi Onabanjo University, Ago-Iwoye, Ogun State, Nigeria  
 [Google Scholar](https://scholar.google.com/citations?user=ysoR2G0AAAAJ&hl=en) | [GitHub](https://github.com/Sakinat-Folorunso) | [Website](https://sites.google.com/view/sakinatfolorunso/home) | [TRAIL](https://sites.google.com/view/ai-trail-oou/home)
 
